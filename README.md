@@ -10,7 +10,11 @@ This repository captures all the **resources, discussions, and visuals** present
 
 The session explored **the anatomy of robots** , from sensors and actuators to control systems and AI-driven intelligence , illustrated through real-world case studies and open-source models.
 
+## Watch the recorded session below
+
 [![Watch the recorded session](docs/youtube.png)](https://youtu.be/ZsYJNp4bUeI "Watch on YouTube")
+
+**Recorded Session:** [Click here](https://youtu.be/ZsYJNp4bUeI)
 
 📑 **Slides (PDF):** [Click here](slide/RAIN-LAUTECH-BAKEL.pdf)
 
